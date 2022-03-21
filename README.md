@@ -41,6 +41,40 @@ Note: You can use any tool to create your prototype, such as webpage creation so
  
 #### H.  Demonstrate professional communication in the content and presentation of your submission.
 
+## Task (Part 2):
+
+Great news! Tanitian government officials have reviewed the latest version of your prototype, and they are very excited about your progress. They want you to submit your prototype for usability testing, and they have asked you to provide user feedback for three other designs they are considering.
+  
+## Requirements (Part 2):
+
+#### A.  Using the “Usability Prototype Submission Form” web link, fill out the form, including your prototype link and the list of five objective usability tasks you provided in Task 1. Complete the “Your Prototype” section in the attached “C856 Task 2 Template” using this information.
+ 
+#### B.  Choose three of your peers’ prototypes from the “Prototype and Peer Review Dashboard” web link. List each peer’s name and prototype title in the “Your Completed Peer Reviews” section of the attached “C856 Task 2 Template.”
+ 
+#### C.  Record yourself and your screen as you give verbal feedback as a user for the three other submissions from part B. Your feedback must address each of the five usability tasks listed by each peer. Submit a link to each of your videos using the “Peer Review Submission Form,” and include these links in the “Your Completed Peer Reviews” section of the “C856 Task 2 Template.”
+
+Note: Use Panopto to record your user testing videos. Your videos should feature you visibly testing the prototypes (i.e., not in voiceover or embedded video) while wearing professional attire. The video should simultaneously capture both you and your user-testing screen. You should provide a verbal narration and qualitative feedback, as well as your reactions as you perform each usability task.
+ 
+Note: For instructions on how to access and use Panopto, use the "Panopto How-To Videos" and “Panopto FAQs” web links provided below. To access Panopto's website, navigate to the web link titled "Panopto Access," and then choose to log in using the “WGU” option. When preparing to record, select the recording folder "User Experience Design HJP2 | C856 (student creators) [assignments]." 
+ 
+Note: If you record to your "My Folder," you must apply viewing permissions for your peers to be able to view your videos. Open the video and then open Settings, select Share, and apply "Your Organization (unlisted), anyone at your organization who has the link can view."
+ 
+Note: If you have any problems accessing Panopto or the HJP2 recording folder, please contact Assessment Services at assessmentservices@wgu.edu. It may take up to two business days to receive your WGU Panopto recording permission once you have enrolled in the course.
+ 
+Note: The file size limit for your entire submission cannot exceed 200 MB. Each individual file should not exceed 16 MB.
+ 
+#### D.  Summarize the feedback from the three reactions you received on your design, including the feedback you received on each of the usability tasks you submitted for testing, specifying which feedback is or is not actionable.
+ 
+Note: List each peer reviewer’s name and Panopto review link in the “Peer Reviews of Your Prototype” section of the attached “C856 Task 2 Template.”
+ 
+#### E.  Summarize how your design changed throughout the entire UX design process, from the wireframe you created and guerrilla tested in Task 1 to using the feedback from the usability testing in Task 2.
+ 
+#### F.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized and for images or graphics from another resource.
+
+Note: You are only required to cite sources from outside this assessment. You are not required to cite reactions from other users. 
+
+#### G.  Demonstrate professional communication in the content and presentation of your submission.
+
 ## Overall Course Competencies:
 
 #### UX Design Processes
@@ -62,5 +96,5 @@ techniques.
 
 ## Evaluator Comments:
 
-"The submission adequately explains how the actionable feedback will be implemented into the website design and how the implementation will improve the design. A list of five appropriate usability tasks is evident."
+"The submission adequately explains how the actionable feedback will be implemented into the website design and how the implementation will improve the design. A list of five appropriate usability tasks is evident." "The UX design Task 2 submission provides components like a working prototype with usability tasks, peer video reviews, and feedback analysis with actionable tagging."
 
